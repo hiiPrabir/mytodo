@@ -1,3 +1,1 @@
-The codes are only meant for the sample understanding structure. We will ultimately have to learn and write codes on our own.
-
-NOTE: The sample code has been uploded tentatively for better understanding of what we have to follow through.
+Previously, pull requests were made by forking repositories from GitHub. Now, there is no need to fork. Instead, copy the SSH link from the Mehfilism community. Then, clone the link using the 'git clone' command. After that, you can commit normally and directly use the 'git push' command, without any request.
