@@ -1,3 +1,10 @@
-Everyone,
+To members of Mehfil-ism,
+
+note 1 :
 use fork method, I have limited write persmission as of now, to get access to github and for every changes you want to merge create PR (pull request) like we used to do.
-note : update your work (again) as the previous commit is being restored, the recent files you'd pushed will be deleted from github.
+
+note 2 :
+update your work (again) as the previous commit is being restored, the recent files you'd pushed will be deleted from github.
+
+note 3 :
+use .gitignore file to not to upload random files : for example - you do not have to upload .cph folder.
