@@ -1,0 +1,14 @@
+# Rahul maravi (Database)
+
+workdone until now : 
+- created database
+
+learnt until now : 
+- about PHP basics
+- MySQL done
+- PHP connection with MySQL database
+- using `db_connect.php` and `add_task.php` patterns
+
+Ongoing :
+- database CRUD concepts in MySQL
+- still continuing the learning process and practicing more PHP/database work
