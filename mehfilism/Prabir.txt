@@ -5,6 +5,7 @@ learned till now
 -basics of js
 -extract input from html
 
-learned today
+learned 5th april
+-if else , loop , operator in js
 -post method
 -request,response
